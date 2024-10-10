@@ -1,5 +1,5 @@
 ## Hi there 👋
-Source Engine enthusiast 
+Just a Source Engine enthusiast 
 # Langs (coding)
 C, C++, Python.
 # Langs (speaking)
